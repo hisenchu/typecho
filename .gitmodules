@@ -1,0 +1,6 @@
+[submodule "usr/plugins/CosUpload"]
+	path = usr/plugins/CosUpload
+	url = git@github.com:manicrabbit/typecho-cos-upload.git
+[submodule "usr/plugins/OpenGraph"]
+	path = usr/plugins/OpenGraph
+	url = git@github.com:manicrabbit/typecho-opengraph.git
